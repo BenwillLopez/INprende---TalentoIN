@@ -1,2 +1,1 @@
-# INprende---TalentoIN files
-Excel learning files
+# INprende---TalentoIN dedicated files and Excel learning files
